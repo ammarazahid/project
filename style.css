@@ -1,0 +1,50 @@
+body{
+    margin-top: 300px;
+    margin-right: 350px;
+    margin-left: 350px;
+    background-color: bisque;
+    box-shadow: 0 0 16px 4px black;
+    padding: 0 50px 0 50px;
+    border-style: ridge;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+}
+button{
+    background-color: darkmagenta;
+    color: white;
+    padding: 16px 32px;
+    cursor: pointer;
+}
+.required-btn{
+    color:red;
+}
+form{
+     background-color: white;
+}
+.paragraph{
+    font-size: x-large;
+    font-family: inherit;
+    font-family: 'Pacifico', cursive;
+
+}
+.label-btn{
+    font-size: xx-large;
+    border:none;
+    margin-bottom:30px;
+    margin-top:20px;
+    
+
+}   
+.input-btn{
+    border:none;
+    margin-bottom: 30px;
+    margin-top:20px;
+    border-bottom: 2px solid #ccc;
+    font-size: 17px;
+    padding: 6px;
+}
+.input-bttn{
+    margin-bottom:30px;
+}
